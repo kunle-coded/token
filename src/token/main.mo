@@ -9,7 +9,7 @@ import Iter "mo:base/Iter";
 
 actor Token {
 
-    let owner : Principal = Principal.fromText("4pkhq-625du-vlyc4-ewcuz-45yk5-rmr2g-3tay4-iilp5-w7kll-iojzl-hae");
+    let owner : Principal = Principal.fromText("4pkhq-625du-vlyc4-ewcuz-45yk5-rmr2g-3tay4-iilp5-w7kll-*****-hae");
     let totalSupply : Nat = 1000000000;
     let symbol : Text = "DANG";
 
